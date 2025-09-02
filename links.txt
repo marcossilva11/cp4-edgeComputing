@@ -1,0 +1,3 @@
+Simulador Wokwi: https://wokwi.com/projects/440854623145093121
+
+Vídeo do código funcionando com a VM no Azure: https://youtu.be/Sb0oKQqAEeU
